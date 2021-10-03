@@ -67,3 +67,15 @@ my name is Zahra
   
   
  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/Zahra_210728/)
+<center><img src ="https://c.top4top.io/p_2098htu7c0.jpeg"width="320px"height="320px"></center>
+
+<p align="center">
+<a href="#"><img title="Whatsapp-Botz" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/NurFaizaAzZahrani"><img title="Author" src="https://img.shields.io/badge/Author-Zahra-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/NurFaizaAzZahrani/followers"><img title="Followers" src="https://img.shields.io/github/followers/MITSUHA-OFC?color=blue&style=flat-square"></a>
+<a href="https://github.com/NurFaizaAzZahrani/Whatsapp-Botz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NurFaizaAzZahrani/Whatsapp-Botz?color=red&style=flat-square"></a>
+<a href="https://github.com/NurFaizaAzZahrani/Whatsapp-Botz/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NurFaizaAzZahrani/Whatsapp-Botz?label=Watchers&color=blue&style=flat-square"></a>
