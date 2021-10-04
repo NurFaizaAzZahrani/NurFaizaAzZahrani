@@ -25,7 +25,7 @@ my name is Zahra
 
 <p>
   <em>
-    rajin lah belajar dan berdoa supaya cita cita tercapai <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> cita cita ku ingin menjadi dokter dan mendapatkan gelar profesor🏆 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    rajin lah belajar dan berdoa👩‍💻 supaya cita cita tercapai <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> cita cita ku ingin menjadi dokter dan mendapatkan gelar profesor🏆 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
