@@ -1,4 +1,6 @@
  Hi there 👋
+Jangan lupa masuk GC ku
+https://chat.whatsapp.com/D6dJhw6dnVl0YbW5Qewltc
 
 <!--
 **NurFaizaAzZahrani/NurFaizaAzZahrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
