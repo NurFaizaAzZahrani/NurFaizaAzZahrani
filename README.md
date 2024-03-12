@@ -1,5 +1,5 @@
  Hi there 👋
-🇹🇭🇨🇳🇫🇷🏳️‍🌈🇮🇩
+🇹🇭🇯🇵🇨🇳
 <!--
 **NurFaizaAzZahrani/NurFaizaAzZahrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 😜 hii my name is Zahra
--->🐣 my favorite lesson is ipa
-my name is Zahra
+-->🐣 my favorite lesson is learn thai
+name ig @zahraurluvee and @yumikoharuka21
 
 # NurFaizaAzZahrani&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px">
 
@@ -31,9 +31,9 @@ my name is Zahra
 
 <br>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> I love watching *Anime* or working on my *laptop* 👨‍💻(Ganti aja kalau mau)
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m currently learning how to *flex README* on my *profile* 💪.(Ganti aja kalau mau)
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> It's hard to make *friends* on the Internet🌐(Ganti aja kalau mau)
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> I love watching *Anime* or working on my *laptop* 👨‍💻
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m currently learning how to *flex README* on my *profile* 💪.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> It's hard to make *friends* on the Internet🌐
 
 <br>
 
